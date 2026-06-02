@@ -1,595 +1,558 @@
 Txn_ID,Date,Category,Sub_Category,Amount,Type,Account,Notes,Year,Month_Num,Month_Name,Year_Month,Quarter,Day_of_Week
 T00001,2024-01-01,Income,Salary,95000,Income,HDFC Salary,Monthly salary credit,2024,1,Jan,2024-01,Q1,Monday
-T00021,2024-01-02,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,1,Jan,2024-01,Q1,Tuesday
-T00028,2024-01-03,Entertainment,Movies / Events,860,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Wednesday
+T00021,2024-01-02,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Tuesday
+T00026,2024-01-02,Entertainment,Movies/Events,1230,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Tuesday
 T00018,2024-01-03,Housing,Internet,1000,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Wednesday
-T00007,2024-01-03,Food,Swiggy / Zomato,310,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Wednesday
+T00007,2024-01-03,Food,Swiggy/Zomato,310,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Wednesday
 T00016,2024-01-05,Housing,Rent,18000,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Friday
 T00003,2024-01-05,Food,Groceries,2520,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Friday
-T00029,2024-01-06,Food,Tea & Snacks,630,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Saturday
-T00031,2024-01-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,1,Jan,2024-01,Q1,Sunday
-T00032,2024-01-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,1,Jan,2024-01,Q1,Sunday
-T00030,2024-01-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,1,Jan,2024-01,Q1,Sunday
+T00028,2024-01-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,1,Jan,2024-01,Q1,Sunday
+T00027,2024-01-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,1,Jan,2024-01,Q1,Sunday
+T00029,2024-01-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,1,Jan,2024-01,Q1,Sunday
 T00002,2024-01-09,Food,Groceries,2230,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Tuesday
 T00019,2024-01-12,Housing,Mobile Recharge,340,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Friday
+T00011,2024-01-14,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Sunday
 T00015,2024-01-14,Transport,Fuel,900,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Sunday
 T00006,2024-01-14,Food,Restaurants,650,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Sunday
-T00011,2024-01-14,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Sunday
-T00008,2024-01-17,Food,Swiggy / Zomato,390,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Wednesday
-T00022,2024-01-18,Health,Gym,1200,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Thursday
-T00009,2024-01-18,Food,Swiggy / Zomato,540,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Thursday
-T00024,2024-01-18,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Thursday
+T00008,2024-01-17,Food,Swiggy/Zomato,390,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Wednesday
+T00022,2024-01-18,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Thursday
+T00009,2024-01-18,Food,Swiggy/Zomato,540,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Thursday
 T00005,2024-01-18,Food,Restaurants,1040,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Thursday
-T00012,2024-01-19,Transport,Ola / Uber,510,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Friday
-T00020,2024-01-20,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,1,Jan,2024-01,Q1,Saturday
-T00010,2024-01-21,Food,Swiggy / Zomato,380,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Sunday
-T00025,2024-01-21,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Sunday
+T00024,2024-01-18,Miscellaneous,Personal Care,550,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Thursday
+T00012,2024-01-19,Transport,Ola/Uber,510,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Friday
+T00020,2024-01-20,Health,Gym,1200,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Saturday
+T00010,2024-01-21,Food,Swiggy/Zomato,380,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Sunday
 T00004,2024-01-22,Food,Restaurants,1040,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Monday
-T00027,2024-01-22,Health,Medicines,240,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Monday
 T00017,2024-01-25,Housing,Electricity,1070,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Thursday
-T00014,2024-01-26,Transport,Ola / Uber,400,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Friday
-T00013,2024-01-28,Transport,Ola / Uber,540,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Sunday
-T00026,2024-01-28,Miscellaneous,Personal Care,650,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Sunday
-T00023,2024-01-30,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Tuesday
-T00033,2024-02-01,Income,Salary,95000,Income,HDFC Salary,Monthly salary credit,2024,2,Feb,2024-02,Q1,Thursday
-T00043,2024-02-02,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Friday
-T00044,2024-02-02,Transport,Ola / Uber,510,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Friday
-T00057,2024-02-03,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Saturday
-T00056,2024-02-05,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Monday
-T00038,2024-02-06,Food,Restaurants,1040,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Tuesday
-T00063,2024-02-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,2,Feb,2024-02,Q1,Wednesday
-T00062,2024-02-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,2,Feb,2024-02,Q1,Wednesday
-T00061,2024-02-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,2,Feb,2024-02,Q1,Wednesday
-T00046,2024-02-07,Transport,Ola / Uber,530,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Wednesday
-T00041,2024-02-08,Food,Swiggy / Zomato,580,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Thursday
-T00053,2024-02-09,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,2,Feb,2024-02,Q1,Friday
-T00051,2024-02-09,Housing,Mobile Recharge,340,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Friday
-T00039,2024-02-09,Food,Swiggy / Zomato,480,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Friday
-T00034,2024-02-09,Food,Groceries,2470,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Friday
-T00048,2024-02-11,Housing,Rent,18000,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Sunday
-T00045,2024-02-13,Transport,Ola / Uber,800,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Tuesday
-T00055,2024-02-13,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Tuesday
-T00054,2024-02-14,Health,Gym,1200,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Wednesday
-T00049,2024-02-16,Housing,Electricity,1070,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Friday
-T00037,2024-02-18,Food,Restaurants,980,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Sunday
-T00047,2024-02-19,Transport,Fuel,1350,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Monday
-T00036,2024-02-20,Food,Restaurants,990,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Tuesday
-T00060,2024-02-20,Entertainment,Movies / Events,950,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Tuesday
-T00050,2024-02-21,Housing,Internet,1000,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Wednesday
-T00040,2024-02-21,Food,Swiggy / Zomato,700,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Wednesday
-T00035,2024-02-22,Food,Groceries,3110,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Thursday
-T00052,2024-02-24,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,2,Feb,2024-02,Q1,Saturday
-T00059,2024-02-26,Health,Doctor Visit,1440,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Monday
-T00042,2024-02-27,Food,Swiggy / Zomato,570,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Tuesday
-T00058,2024-02-28,Miscellaneous,Personal Care,700,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Wednesday
-T00081,2024-03-01,Housing,Electricity,1160,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Friday
-T00064,2024-03-01,Income,Salary,95000,Income,HDFC Salary,Monthly salary credit,2024,3,Mar,2024-03,Q1,Friday
-T00086,2024-03-03,Health,Gym,1200,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Sunday
-T00089,2024-03-05,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Tuesday
-T00096,2024-03-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,3,Mar,2024-03,Q1,Thursday
-T00095,2024-03-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,3,Mar,2024-03,Q1,Thursday
-T00076,2024-03-07,Transport,Ola / Uber,650,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Thursday
-T00094,2024-03-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,3,Mar,2024-03,Q1,Thursday
-T00084,2024-03-08,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,3,Mar,2024-03,Q1,Friday
-T00071,2024-03-09,Food,Swiggy / Zomato,650,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Saturday
-T00068,2024-03-10,Food,Restaurants,800,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Sunday
-T00093,2024-03-12,Food,Tea & Snacks,570,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Tuesday
-T00082,2024-03-12,Housing,Internet,1000,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Tuesday
-T00585,2024-03-15,Health,Health Insurance Premium,16500,Expense,HDFC Credit Card,Annual family floater,2024,3,Mar,2024-03,Q1,Friday
-T00069,2024-03-15,Food,Restaurants,860,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Friday
-T00090,2024-03-16,Miscellaneous,Personal Care,450,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Saturday
-T00087,2024-03-16,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Saturday
-T00079,2024-03-17,Transport,Fuel,1270,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Sunday
-T00092,2024-03-18,Entertainment,Movies / Events,790,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Monday
-T00091,2024-03-20,Health,Medicines,520,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Wednesday
-T00080,2024-03-20,Housing,Rent,18000,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Wednesday
-T00067,2024-03-21,Food,Groceries,2550,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Thursday
-T00075,2024-03-21,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Thursday
-T00074,2024-03-21,Food,Swiggy / Zomato,340,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Thursday
-T00065,2024-03-22,Income,Freelance,6000,Income,SBI Savings,Freelance project,2024,3,Mar,2024-03,Q1,Friday
-T00070,2024-03-24,Food,Restaurants,600,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Sunday
-T00088,2024-03-25,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Monday
-T00072,2024-03-25,Food,Swiggy / Zomato,690,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Monday
-T00077,2024-03-25,Transport,Ola / Uber,480,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Monday
-T00066,2024-03-25,Food,Groceries,3350,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Monday
-T00083,2024-03-27,Housing,Mobile Recharge,390,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Wednesday
-T00085,2024-03-29,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,3,Mar,2024-03,Q1,Friday
-T00073,2024-03-30,Food,Swiggy / Zomato,370,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Saturday
-T00078,2024-03-31,Transport,Ola / Uber,480,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Sunday
-T00097,2024-04-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,4,Apr,2024-04,Q2,Monday
-T00103,2024-04-02,Food,Swiggy / Zomato,580,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Tuesday
-T00099,2024-04-03,Food,Groceries,2520,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Wednesday
-T00102,2024-04-03,Food,Restaurants,730,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Wednesday
-T00098,2024-04-04,Food,Groceries,2870,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Thursday
-T00108,2024-04-05,Transport,Ola / Uber,510,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Friday
-T00128,2024-04-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,4,Apr,2024-04,Q2,Sunday
-T00126,2024-04-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,4,Apr,2024-04,Q2,Sunday
-T00127,2024-04-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,4,Apr,2024-04,Q2,Sunday
-T00112,2024-04-07,Housing,Rent,18000,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Sunday
-T00120,2024-04-08,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Monday
-T00106,2024-04-08,Food,Swiggy / Zomato,330,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Monday
-T00586,2024-04-10,Investment,FD – SBI,50000,Investment,SBI Savings,6-month FD @7.1%,2024,4,Apr,2024-04,Q2,Wednesday
-T00105,2024-04-11,Food,Swiggy / Zomato,310,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Thursday
-T00118,2024-04-13,Health,Gym,1200,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Saturday
-T00114,2024-04-14,Housing,Internet,1000,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Sunday
-T00122,2024-04-14,Miscellaneous,Personal Care,580,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Sunday
-T00111,2024-04-16,Transport,Fuel,950,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Tuesday
-T00110,2024-04-16,Transport,Ola / Uber,690,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Tuesday
-T00107,2024-04-16,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Tuesday
-T00121,2024-04-18,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Thursday
-T00124,2024-04-18,Entertainment,Movies / Events,1380,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Thursday
-T00125,2024-04-18,Entertainment,Shopping – Clothes,3460,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Thursday
-T00100,2024-04-19,Food,Restaurants,800,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Friday
-T00101,2024-04-19,Food,Restaurants,930,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Friday
-T00117,2024-04-21,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,4,Apr,2024-04,Q2,Sunday
-T00113,2024-04-22,Housing,Electricity,980,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Monday
-T00116,2024-04-22,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,4,Apr,2024-04,Q2,Monday
-T00119,2024-04-26,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Friday
-T00115,2024-04-28,Housing,Mobile Recharge,340,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Sunday
-T00123,2024-04-28,Health,Doctor Visit,1190,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Sunday
-T00104,2024-04-29,Food,Swiggy / Zomato,390,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Monday
-T00109,2024-04-29,Transport,Ola / Uber,760,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Monday
-T00133,2024-05-01,Food,Restaurants,700,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Wednesday
-T00129,2024-05-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,5,May,2024-05,Q2,Wednesday
-T00132,2024-05-02,Food,Restaurants,840,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Thursday
-T00153,2024-05-02,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Thursday
-T00141,2024-05-02,Transport,Ola / Uber,510,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Thursday
-T00149,2024-05-03,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,5,May,2024-05,Q2,Friday
-T00146,2024-05-06,Housing,Internet,1000,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Monday
-T00148,2024-05-06,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,5,May,2024-05,Q2,Monday
-T00159,2024-05-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,5,May,2024-05,Q2,Tuesday
-T00158,2024-05-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,5,May,2024-05,Q2,Tuesday
-T00160,2024-05-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,5,May,2024-05,Q2,Tuesday
-T00150,2024-05-08,Health,Gym,1200,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Wednesday
-T00152,2024-05-08,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Wednesday
-T00134,2024-05-09,Food,Restaurants,1190,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Thursday
-T00140,2024-05-10,Transport,Ola / Uber,480,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Friday
-T00143,2024-05-11,Transport,Fuel,840,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Saturday
-T00154,2024-05-14,Miscellaneous,Personal Care,650,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Tuesday
-T00136,2024-05-14,Food,Swiggy / Zomato,480,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Tuesday
-T00139,2024-05-16,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Thursday
-T00130,2024-05-16,Food,Groceries,2420,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Thursday
-T00147,2024-05-17,Housing,Mobile Recharge,300,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Friday
-T00138,2024-05-18,Food,Swiggy / Zomato,700,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Saturday
-T00142,2024-05-18,Transport,Ola / Uber,690,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Saturday
-T00144,2024-05-19,Housing,Rent,18000,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Sunday
-T00155,2024-05-22,Entertainment,Movies / Events,830,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Wednesday
-T00156,2024-05-22,Miscellaneous,Gifts / Celebrations,1290,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Wednesday
-T00137,2024-05-24,Food,Swiggy / Zomato,580,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Friday
-T00135,2024-05-26,Food,Swiggy / Zomato,670,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Sunday
-T00131,2024-05-28,Food,Groceries,2830,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Tuesday
-T00145,2024-05-30,Housing,Electricity,1280,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Thursday
-T00157,2024-05-30,Food,Tea & Snacks,670,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Thursday
-T00151,2024-05-31,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Friday
-T00186,2024-06-01,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Saturday
-T00172,2024-06-01,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Saturday
-T00593,2024-06-01,Income,Performance Bonus,30000,Income,HDFC Salary,Annual bonus Q1,2024,6,Jun,2024-06,Q2,Saturday
-T00161,2024-06-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,6,Jun,2024-06,Q2,Saturday
-T00184,2024-06-03,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Monday
-T00163,2024-06-04,Food,Groceries,3500,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Tuesday
-T00176,2024-06-04,Transport,Fuel,880,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Tuesday
-T00187,2024-06-05,Miscellaneous,Personal Care,530,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Wednesday
-T00165,2024-06-05,Food,Restaurants,900,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Wednesday
-T00168,2024-06-06,Food,Swiggy / Zomato,450,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Thursday
-T00191,2024-06-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,6,Jun,2024-06,Q2,Friday
-T00180,2024-06-07,Housing,Mobile Recharge,370,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Friday
-T00192,2024-06-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,6,Jun,2024-06,Q2,Friday
-T00193,2024-06-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,6,Jun,2024-06,Q2,Friday
-T00179,2024-06-07,Housing,Internet,1000,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Friday
-T00164,2024-06-07,Food,Groceries,2300,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Friday
-T00167,2024-06-08,Food,Restaurants,640,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Saturday
-T00178,2024-06-09,Housing,Electricity,1340,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Sunday
-T00182,2024-06-16,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,6,Jun,2024-06,Q2,Sunday
-T00173,2024-06-18,Transport,Ola / Uber,730,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Tuesday
-T00169,2024-06-18,Food,Swiggy / Zomato,480,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Tuesday
-T00188,2024-06-18,Health,Medicines,640,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Tuesday
-T00190,2024-06-19,Food,Tea & Snacks,630,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Wednesday
-T00162,2024-06-20,Income,Freelance,12000,Income,SBI Savings,Freelance project,2024,6,Jun,2024-06,Q2,Thursday
-T00170,2024-06-20,Food,Swiggy / Zomato,580,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Thursday
-T00174,2024-06-22,Transport,Ola / Uber,550,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Saturday
-T00189,2024-06-23,Miscellaneous,Gifts / Celebrations,2390,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Sunday
-T00177,2024-06-24,Housing,Rent,18000,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Monday
-T00171,2024-06-26,Food,Swiggy / Zomato,690,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Wednesday
-T00185,2024-06-27,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Thursday
-T00181,2024-06-28,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,6,Jun,2024-06,Q2,Friday
-T00166,2024-06-29,Food,Restaurants,1160,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Saturday
-T00175,2024-06-29,Transport,Ola / Uber,450,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Saturday
-T00183,2024-06-30,Health,Gym,1200,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Sunday
-T00194,2024-07-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,7,Jul,2024-07,Q3,Monday
-T00195,2024-07-02,Food,Groceries,2760,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Tuesday
-T00207,2024-07-06,Transport,Ola / Uber,610,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Saturday
-T00215,2024-07-07,Health,Gym,1200,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Sunday
-T00227,2024-07-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,7,Jul,2024-07,Q3,Sunday
-T00226,2024-07-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,7,Jul,2024-07,Q3,Sunday
-T00225,2024-07-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,7,Jul,2024-07,Q3,Sunday
-T00218,2024-07-08,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Monday
-T00199,2024-07-08,Food,Restaurants,730,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Monday
-T00211,2024-07-08,Housing,Internet,1000,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Monday
-T00223,2024-07-09,Education,Books / Courses,2250,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Tuesday
-T00224,2024-07-09,Food,Tea & Snacks,690,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Tuesday
-T00208,2024-07-11,Transport,Fuel,1240,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Thursday
-T00200,2024-07-12,Food,Swiggy / Zomato,570,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Friday
-T00198,2024-07-12,Food,Restaurants,620,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Friday
-T00221,2024-07-12,Health,Medicines,660,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Friday
-T00213,2024-07-13,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,7,Jul,2024-07,Q3,Saturday
-T00209,2024-07-14,Housing,Rent,18000,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Sunday
-T00216,2024-07-15,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Monday
-T00222,2024-07-18,Entertainment,Shopping – Clothes,4440,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Thursday
-T00202,2024-07-20,Food,Swiggy / Zomato,650,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Saturday
-T00587,2024-07-20,Miscellaneous,Laptop Repair,8500,Expense,HDFC Credit Card,Keyboard replacement,2024,7,Jul,2024-07,Q3,Saturday
-T00219,2024-07-22,Miscellaneous,Personal Care,490,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Monday
-T00205,2024-07-26,Transport,Ola / Uber,480,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Friday
-T00212,2024-07-26,Housing,Mobile Recharge,330,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Friday
-T00217,2024-07-27,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Saturday
-T00214,2024-07-28,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,7,Jul,2024-07,Q3,Sunday
-T00220,2024-07-28,Health,Doctor Visit,990,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Sunday
-T00204,2024-07-28,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Sunday
-T00197,2024-07-28,Food,Restaurants,1160,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Sunday
-T00210,2024-07-28,Housing,Electricity,1540,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Sunday
-T00201,2024-07-29,Food,Swiggy / Zomato,610,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Monday
-T00196,2024-07-29,Food,Groceries,2600,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Monday
-T00206,2024-07-29,Transport,Ola / Uber,810,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Monday
-T00203,2024-07-30,Food,Swiggy / Zomato,600,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Tuesday
-T00228,2024-08-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,8,Aug,2024-08,Q3,Thursday
-T00235,2024-08-01,Food,Swiggy / Zomato,580,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Thursday
-T00234,2024-08-02,Food,Restaurants,710,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Friday
-T00232,2024-08-04,Food,Restaurants,1190,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Sunday
-T00247,2024-08-05,Housing,Mobile Recharge,330,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Monday
-T00250,2024-08-06,Health,Gym,1200,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Tuesday
-T00255,2024-08-07,Entertainment,Movies / Events,1000,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Wednesday
-T00258,2024-08-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,8,Aug,2024-08,Q3,Wednesday
-T00257,2024-08-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,8,Aug,2024-08,Q3,Wednesday
-T00256,2024-08-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,8,Aug,2024-08,Q3,Wednesday
-T00253,2024-08-10,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Saturday
-T00251,2024-08-10,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Saturday
-T00241,2024-08-11,Transport,Ola / Uber,730,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Sunday
-T00239,2024-08-12,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Monday
-T00229,2024-08-14,Income,Freelance,15000,Income,SBI Savings,Freelance project,2024,8,Aug,2024-08,Q3,Wednesday
-T00245,2024-08-14,Housing,Electricity,1150,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Wednesday
-T00244,2024-08-17,Housing,Rent,18000,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Saturday
-T00233,2024-08-19,Food,Restaurants,830,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Monday
-T00231,2024-08-20,Food,Groceries,2610,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Tuesday
-T00249,2024-08-22,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,8,Aug,2024-08,Q3,Thursday
-T00248,2024-08-22,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,8,Aug,2024-08,Q3,Thursday
-T00242,2024-08-22,Transport,Ola / Uber,710,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Thursday
-T00246,2024-08-23,Housing,Internet,1000,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Friday
-T00238,2024-08-24,Food,Swiggy / Zomato,680,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Saturday
-T00243,2024-08-24,Transport,Fuel,1310,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Saturday
-T00237,2024-08-24,Food,Swiggy / Zomato,520,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Saturday
-T00230,2024-08-26,Food,Groceries,2650,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Monday
-T00236,2024-08-26,Food,Swiggy / Zomato,510,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Monday
-T00254,2024-08-26,Miscellaneous,Personal Care,480,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Monday
-T00252,2024-08-27,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Tuesday
-T00240,2024-08-31,Transport,Ola / Uber,620,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Saturday
-T00259,2024-09-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,9,Sep,2024-09,Q3,Sunday
-T00265,2024-09-02,Food,Swiggy / Zomato,360,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Monday
-T00278,2024-09-02,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,9,Sep,2024-09,Q3,Monday
-T00276,2024-09-06,Housing,Internet,1000,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Friday
-T00264,2024-09-07,Food,Restaurants,730,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Saturday
-T00287,2024-09-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,9,Sep,2024-09,Q3,Saturday
-T00289,2024-09-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,9,Sep,2024-09,Q3,Saturday
-T00288,2024-09-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,9,Sep,2024-09,Q3,Saturday
-T00263,2024-09-10,Food,Restaurants,740,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Tuesday
-T00261,2024-09-11,Food,Groceries,3020,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Wednesday
-T00271,2024-09-13,Transport,Ola / Uber,590,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Friday
-T00268,2024-09-14,Food,Swiggy / Zomato,330,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Saturday
-T00285,2024-09-15,Entertainment,Movies / Events,1420,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Sunday
-T00280,2024-09-15,Health,Gym,1200,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Sunday
-T00281,2024-09-15,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Sunday
-T00266,2024-09-16,Food,Swiggy / Zomato,400,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Monday
-T00282,2024-09-18,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Wednesday
-T00269,2024-09-19,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Thursday
-T00284,2024-09-20,Miscellaneous,Personal Care,760,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Friday
-T00272,2024-09-21,Transport,Ola / Uber,520,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Saturday
-T00286,2024-09-21,Food,Tea & Snacks,400,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Saturday
-T00260,2024-09-22,Food,Groceries,2570,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Sunday
-T00277,2024-09-23,Housing,Mobile Recharge,380,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Monday
-T00270,2024-09-23,Transport,Ola / Uber,500,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Monday
-T00262,2024-09-25,Food,Restaurants,660,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Wednesday
-T00275,2024-09-25,Housing,Electricity,1610,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Wednesday
-T00274,2024-09-25,Housing,Rent,18000,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Wednesday
-T00267,2024-09-25,Food,Swiggy / Zomato,540,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Wednesday
-T00283,2024-09-25,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Wednesday
-T00273,2024-09-29,Transport,Fuel,1210,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Sunday
-T00279,2024-09-30,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,9,Sep,2024-09,Q3,Monday
-T00290,2024-10-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,10,Oct,2024-10,Q4,Tuesday
-T00299,2024-10-01,Food,Swiggy / Zomato,760,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Tuesday
-T00297,2024-10-02,Food,Swiggy / Zomato,500,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Wednesday
-T00292,2024-10-03,Food,Groceries,3430,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Thursday
-T00295,2024-10-05,Food,Restaurants,800,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Saturday
-T00294,2024-10-05,Food,Restaurants,930,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Saturday
-T00588,2024-10-05,Miscellaneous,Diwali Shopping,14000,Expense,HDFC Credit Card,Gifts + clothes + crackers,2024,10,Oct,2024-10,Q4,Saturday
-T00316,2024-10-05,Miscellaneous,Personal Care,490,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Saturday
-T00322,2024-10-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,10,Oct,2024-10,Q4,Monday
-T00321,2024-10-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,10,Oct,2024-10,Q4,Monday
-T00320,2024-10-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,10,Oct,2024-10,Q4,Monday
-T00293,2024-10-11,Food,Groceries,3550,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Friday
-T00317,2024-10-11,Health,Medicines,360,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Friday
-T00300,2024-10-13,Food,Swiggy / Zomato,780,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Sunday
-T00314,2024-10-13,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Sunday
-T00309,2024-10-13,Housing,Mobile Recharge,350,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Sunday
-T00296,2024-10-14,Food,Restaurants,1130,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Monday
-T00308,2024-10-14,Housing,Internet,1000,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Monday
-T00304,2024-10-14,Transport,Ola / Uber,880,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Monday
-T00312,2024-10-15,Health,Gym,1200,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Tuesday
-T00291,2024-10-16,Income,Freelance,15000,Income,SBI Savings,Freelance project,2024,10,Oct,2024-10,Q4,Wednesday
-T00307,2024-10-16,Housing,Electricity,1620,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Wednesday
-T00319,2024-10-16,Food,Tea & Snacks,630,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Wednesday
-T00313,2024-10-18,Entertainment,OTT Subscriptions,810,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Friday
-T00306,2024-10-20,Housing,Rent,18000,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Sunday
-T00315,2024-10-22,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Tuesday
-T00310,2024-10-22,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,10,Oct,2024-10,Q4,Tuesday
-T00311,2024-10-24,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,10,Oct,2024-10,Q4,Thursday
-T00305,2024-10-24,Transport,Fuel,1120,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Thursday
-T00318,2024-10-25,Entertainment,Movies / Events,890,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Friday
-T00302,2024-10-25,Transport,Ola / Uber,580,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Friday
-T00298,2024-10-29,Food,Swiggy / Zomato,440,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Tuesday
-T00303,2024-10-29,Transport,Ola / Uber,590,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Tuesday
-T00301,2024-10-31,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Thursday
-T00323,2024-11-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,11,Nov,2024-11,Q4,Friday
-T00324,2024-11-02,Income,Freelance,15000,Income,SBI Savings,Freelance project,2024,11,Nov,2024-11,Q4,Saturday
-T00326,2024-11-02,Food,Groceries,2850,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Saturday
-T00333,2024-11-04,Food,Swiggy / Zomato,780,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Monday
-T00348,2024-11-04,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Monday
-T00353,2024-11-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,11,Nov,2024-11,Q4,Thursday
-T00354,2024-11-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,11,Nov,2024-11,Q4,Thursday
-T00352,2024-11-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,11,Nov,2024-11,Q4,Thursday
-T00327,2024-11-07,Food,Restaurants,1300,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Thursday
-T00328,2024-11-08,Food,Restaurants,1310,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Friday
-T00330,2024-11-09,Food,Swiggy / Zomato,800,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Saturday
-T00346,2024-11-11,Entertainment,OTT Subscriptions,760,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Monday
-T00344,2024-11-12,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,11,Nov,2024-11,Q4,Tuesday
-T00336,2024-11-13,Transport,Ola / Uber,850,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Wednesday
-T00347,2024-11-14,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Thursday
-T00351,2024-11-18,Entertainment,Shopping – Clothes,3920,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Monday
-T00343,2024-11-19,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,11,Nov,2024-11,Q4,Tuesday
-T00338,2024-11-19,Transport,Fuel,920,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Tuesday
-T00329,2024-11-19,Food,Restaurants,820,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Tuesday
-T00331,2024-11-20,Food,Swiggy / Zomato,690,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Wednesday
-T00339,2024-11-21,Housing,Rent,18000,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Thursday
-T00325,2024-11-21,Food,Groceries,4030,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Thursday
-T00350,2024-11-21,Entertainment,Movies / Events,1260,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Thursday
-T00335,2024-11-22,Transport,Ola / Uber,560,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Friday
-T00345,2024-11-22,Health,Gym,1200,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Friday
-T00337,2024-11-23,Transport,Ola / Uber,600,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Saturday
-T00340,2024-11-23,Housing,Electricity,1090,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Saturday
-T00332,2024-11-25,Food,Swiggy / Zomato,830,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Monday
-T00342,2024-11-26,Housing,Mobile Recharge,370,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Tuesday
-T00341,2024-11-28,Housing,Internet,1000,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Thursday
-T00589,2024-11-28,Education,Power BI Certification,4500,Expense,HDFC Credit Card,PL-300 exam fee,2024,11,Nov,2024-11,Q4,Thursday
-T00349,2024-11-29,Miscellaneous,Personal Care,660,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Friday
-T00334,2024-11-30,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Saturday
-T00355,2024-12-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,12,Dec,2024-12,Q4,Sunday
-T00363,2024-12-03,Food,Swiggy / Zomato,370,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Tuesday
-T00381,2024-12-04,Entertainment,Movies / Events,850,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Wednesday
-T00377,2024-12-04,Entertainment,OTT Subscriptions,730,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Wednesday
-T00382,2024-12-05,Food,Tea & Snacks,580,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Thursday
-T00379,2024-12-06,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Friday
-T00384,2024-12-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2024,12,Dec,2024-12,Q4,Saturday
-T00383,2024-12-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2024,12,Dec,2024-12,Q4,Saturday
-T00385,2024-12-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2024,12,Dec,2024-12,Q4,Saturday
-T00376,2024-12-08,Health,Gym,1200,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Sunday
-T00357,2024-12-08,Food,Groceries,2850,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Sunday
-T00375,2024-12-09,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2024,12,Dec,2024-12,Q4,Monday
-T00380,2024-12-09,Miscellaneous,Personal Care,580,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Monday
-T00368,2024-12-10,Transport,Ola / Uber,410,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Tuesday
-T00372,2024-12-12,Housing,Internet,1000,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Thursday
-T00374,2024-12-12,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2024,12,Dec,2024-12,Q4,Thursday
-T00360,2024-12-12,Food,Restaurants,940,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Thursday
-T00371,2024-12-16,Housing,Electricity,1370,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Monday
-T00364,2024-12-18,Food,Swiggy / Zomato,460,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Wednesday
-T00362,2024-12-18,Food,Swiggy / Zomato,670,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Wednesday
-T00358,2024-12-22,Food,Restaurants,1240,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Sunday
-T00370,2024-12-22,Housing,Rent,18000,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Sunday
-T00365,2024-12-23,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Monday
-T00366,2024-12-23,Transport,Ola / Uber,640,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Monday
-T00369,2024-12-23,Transport,Fuel,930,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Monday
-T00373,2024-12-24,Housing,Mobile Recharge,340,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Tuesday
-T00367,2024-12-26,Transport,Ola / Uber,650,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Thursday
-T00359,2024-12-28,Food,Restaurants,920,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Saturday
-T00361,2024-12-29,Food,Swiggy / Zomato,710,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Sunday
-T00356,2024-12-30,Food,Groceries,2980,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Monday
-T00378,2024-12-31,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Tuesday
-T00414,2025-01-01,Health,Medicines,250,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Wednesday
-T00386,2025-01-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,1,Jan,2025-01,Q1,Wednesday
-T00409,2025-01-02,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Thursday
-T00396,2025-01-03,Food,Swiggy / Zomato,350,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Friday
-T00397,2025-01-03,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Friday
-T00390,2025-01-04,Food,Restaurants,1050,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Saturday
-T00399,2025-01-05,Transport,Ola / Uber,430,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Sunday
-T00393,2025-01-06,Food,Swiggy / Zomato,480,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Monday
-T00420,2025-01-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2025,1,Jan,2025-01,Q1,Tuesday
-T00419,2025-01-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2025,1,Jan,2025-01,Q1,Tuesday
-T00412,2025-01-07,Miscellaneous,Personal Care,480,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Tuesday
-T00418,2025-01-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2025,1,Jan,2025-01,Q1,Tuesday
-T00404,2025-01-08,Housing,Internet,1000,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Wednesday
-T00401,2025-01-08,Transport,Fuel,980,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Wednesday
-T00413,2025-01-08,Health,Doctor Visit,620,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Wednesday
-T00394,2025-01-09,Food,Swiggy / Zomato,690,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Thursday
-T00417,2025-01-09,Food,Tea & Snacks,390,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Thursday
-T00408,2025-01-10,Health,Gym,1200,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Friday
-T00405,2025-01-13,Housing,Mobile Recharge,380,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Monday
-T00406,2025-01-15,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2025,1,Jan,2025-01,Q1,Wednesday
-T00590,2025-01-15,Income,Tax Refund,9800,Income,SBI Savings,IT refund AY2024-25,2025,1,Jan,2025-01,Q1,Wednesday
-T00392,2025-01-16,Food,Restaurants,770,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Thursday
-T00415,2025-01-16,Entertainment,Movies / Events,1220,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Thursday
-T00395,2025-01-16,Food,Swiggy / Zomato,680,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Thursday
-T00387,2025-01-18,Income,Freelance,6000,Income,SBI Savings,Freelance project,2025,1,Jan,2025-01,Q1,Saturday
-T00391,2025-01-19,Food,Restaurants,1120,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Sunday
-T00407,2025-01-19,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2025,1,Jan,2025-01,Q1,Sunday
-T00403,2025-01-20,Housing,Electricity,1230,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Monday
-T00398,2025-01-22,Transport,Ola / Uber,690,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Wednesday
-T00416,2025-01-23,Entertainment,Shopping – Clothes,2190,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Thursday
-T00410,2025-01-24,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Friday
-T00411,2025-01-25,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Saturday
-T00402,2025-01-25,Housing,Rent,18000,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Saturday
-T00389,2025-01-28,Food,Groceries,2360,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Tuesday
-T00388,2025-01-31,Food,Groceries,2580,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Friday
-T00400,2025-01-31,Transport,Ola / Uber,810,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Friday
-T00441,2025-02-01,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2025,2,Feb,2025-02,Q1,Saturday
-T00421,2025-02-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,2,Feb,2025-02,Q1,Saturday
-T00427,2025-02-02,Food,Swiggy / Zomato,360,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Sunday
-T00438,2025-02-03,Housing,Internet,1000,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Monday
-T00425,2025-02-05,Food,Restaurants,730,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Wednesday
-T00423,2025-02-07,Food,Groceries,3250,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Friday
-T00449,2025-02-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2025,2,Feb,2025-02,Q1,Friday
-T00450,2025-02-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2025,2,Feb,2025-02,Q1,Friday
-T00451,2025-02-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2025,2,Feb,2025-02,Q1,Friday
-T00446,2025-02-09,Miscellaneous,Personal Care,660,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Sunday
-T00433,2025-02-09,Transport,Ola / Uber,600,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Sunday
-T00428,2025-02-10,Food,Swiggy / Zomato,370,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Monday
-T00430,2025-02-10,Food,Swiggy / Zomato,530,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Monday
-T00448,2025-02-14,Food,Tea & Snacks,360,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Friday
-T00436,2025-02-14,Housing,Rent,18000,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Friday
-T00431,2025-02-15,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Saturday
-T00434,2025-02-16,Transport,Ola / Uber,650,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Sunday
-T00445,2025-02-17,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Monday
-T00424,2025-02-18,Food,Restaurants,860,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Tuesday
-T00443,2025-02-19,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Wednesday
-T00440,2025-02-19,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2025,2,Feb,2025-02,Q1,Wednesday
-T00437,2025-02-20,Housing,Electricity,1490,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Thursday
-T00435,2025-02-20,Transport,Fuel,1060,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Thursday
-T00447,2025-02-21,Health,Doctor Visit,1380,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Friday
-T00442,2025-02-22,Health,Gym,1200,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Saturday
-T00439,2025-02-22,Housing,Mobile Recharge,320,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Saturday
-T00422,2025-02-22,Food,Groceries,3010,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Saturday
-T00432,2025-02-23,Transport,Ola / Uber,740,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Sunday
-T00444,2025-02-25,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Tuesday
-T00426,2025-02-27,Food,Restaurants,1150,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Thursday
-T00429,2025-02-27,Food,Swiggy / Zomato,540,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Thursday
-T00459,2025-03-01,Food,Swiggy / Zomato,630,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Saturday
-T00452,2025-03-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,3,Mar,2025-03,Q1,Saturday
-T00461,2025-03-02,Food,Swiggy / Zomato,480,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Sunday
-T00468,2025-03-04,Housing,Electricity,1460,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Tuesday
-T00482,2025-03-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2025,3,Mar,2025-03,Q1,Friday
-T00483,2025-03-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2025,3,Mar,2025-03,Q1,Friday
-T00481,2025-03-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2025,3,Mar,2025-03,Q1,Friday
-T00470,2025-03-08,Housing,Mobile Recharge,360,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Saturday
-T00473,2025-03-08,Health,Gym,1200,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Saturday
-T00456,2025-03-09,Food,Restaurants,650,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Sunday
-T00465,2025-03-09,Transport,Ola / Uber,430,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Sunday
-T00471,2025-03-10,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2025,3,Mar,2025-03,Q1,Monday
-T00462,2025-03-12,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Wednesday
-T00479,2025-03-13,Entertainment,Shopping – Clothes,3150,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Thursday
-T00455,2025-03-15,Food,Restaurants,930,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Saturday
-T00463,2025-03-16,Transport,Ola / Uber,710,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Sunday
-T00478,2025-03-16,Entertainment,Movies / Events,1350,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Sunday
-T00458,2025-03-17,Food,Swiggy / Zomato,460,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Monday
-T00472,2025-03-18,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2025,3,Mar,2025-03,Q1,Tuesday
-T00460,2025-03-18,Food,Swiggy / Zomato,560,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Tuesday
-T00469,2025-03-21,Housing,Internet,1000,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Friday
-T00480,2025-03-24,Miscellaneous,Gifts / Celebrations,1700,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Monday
-T00454,2025-03-25,Food,Groceries,2720,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Tuesday
-T00457,2025-03-25,Food,Restaurants,790,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Tuesday
-T00464,2025-03-25,Transport,Ola / Uber,710,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Tuesday
-T00476,2025-03-27,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Thursday
-T00467,2025-03-29,Housing,Rent,18000,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Saturday
-T00466,2025-03-30,Transport,Fuel,1130,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Sunday
-T00477,2025-03-30,Miscellaneous,Personal Care,460,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Sunday
-T00474,2025-03-30,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Sunday
-T00591,2025-03-31,Investment,ELSS – Tax Saving,25000,Investment,Zerodha Coin,Sec 80C last-minute investment,2025,3,Mar,2025-03,Q1,Monday
-T00475,2025-03-31,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Monday
-T00453,2025-03-31,Food,Groceries,2570,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Monday
-T00594,2025-04-01,Income,Performance Bonus,35000,Income,HDFC Salary,Annual bonus Q1,2025,4,Apr,2025-04,Q2,Tuesday
-T00487,2025-04-01,Food,Groceries,2550,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Tuesday
-T00484,2025-04-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,4,Apr,2025-04,Q2,Tuesday
-T00507,2025-04-04,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Friday
-T00511,2025-04-05,Health,Doctor Visit,1810,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Saturday
-T00505,2025-04-05,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2025,4,Apr,2025-04,Q2,Saturday
-T00518,2025-04-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2025,4,Apr,2025-04,Q2,Monday
-T00517,2025-04-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2025,4,Apr,2025-04,Q2,Monday
-T00516,2025-04-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2025,4,Apr,2025-04,Q2,Monday
-T00512,2025-04-09,Health,Medicines,670,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Wednesday
-T00488,2025-04-10,Food,Restaurants,770,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Thursday
-T00499,2025-04-11,Transport,Fuel,1050,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Friday
-T00485,2025-04-11,Income,Freelance,12000,Income,SBI Savings,Freelance project,2025,4,Apr,2025-04,Q2,Friday
-T00492,2025-04-12,Food,Swiggy / Zomato,520,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Saturday
-T00501,2025-04-13,Housing,Electricity,1630,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Sunday
-T00497,2025-04-13,Transport,Ola / Uber,520,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Sunday
-T00508,2025-04-15,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Tuesday
-T00491,2025-04-15,Food,Swiggy / Zomato,650,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Tuesday
-T00494,2025-04-15,Food,Swiggy / Zomato,520,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Tuesday
-T00490,2025-04-16,Food,Restaurants,1200,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Wednesday
-T00504,2025-04-16,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2025,4,Apr,2025-04,Q2,Wednesday
-T00486,2025-04-17,Food,Groceries,3410,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Thursday
-T00506,2025-04-19,Health,Gym,1200,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Saturday
-T00489,2025-04-19,Food,Restaurants,1100,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Saturday
-T00513,2025-04-21,Entertainment,Movies / Events,1220,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Monday
-T00503,2025-04-21,Housing,Mobile Recharge,380,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Monday
-T00502,2025-04-22,Housing,Internet,1000,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Tuesday
-T00514,2025-04-22,Entertainment,Shopping – Clothes,2490,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Tuesday
-T00496,2025-04-23,Transport,Ola / Uber,490,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Wednesday
-T00500,2025-04-23,Housing,Rent,18000,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Wednesday
-T00510,2025-04-24,Miscellaneous,Personal Care,580,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Thursday
-T00493,2025-04-25,Food,Swiggy / Zomato,430,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Friday
-T00515,2025-04-25,Food,Tea & Snacks,590,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Friday
-T00498,2025-04-25,Transport,Ola / Uber,520,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Friday
-T00495,2025-04-28,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Monday
-T00509,2025-04-30,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Wednesday
-T00540,2025-05-01,Health,Gym,1200,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Thursday
-T00519,2025-05-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,5,May,2025-05,Q2,Thursday
-T00528,2025-05-02,Food,Swiggy / Zomato,660,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Friday
-T00529,2025-05-02,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Friday
-T00534,2025-05-03,Housing,Rent,18000,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Saturday
-T00543,2025-05-03,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Saturday
-T00524,2025-05-04,Food,Restaurants,650,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Sunday
-T00533,2025-05-06,Transport,Fuel,1210,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Tuesday
-T00551,2025-05-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2025,5,May,2025-05,Q2,Wednesday
-T00550,2025-05-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2025,5,May,2025-05,Q2,Wednesday
-T00549,2025-05-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2025,5,May,2025-05,Q2,Wednesday
-T00546,2025-05-07,Entertainment,Movies / Events,1360,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Wednesday
-T00536,2025-05-08,Housing,Internet,1000,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Thursday
-T00531,2025-05-08,Transport,Ola / Uber,620,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Thursday
-T00548,2025-05-10,Food,Tea & Snacks,700,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Saturday
-T00592,2025-05-10,Health,Dental Treatment,6200,Expense,HDFC Credit Card,Root canal,2025,5,May,2025-05,Q2,Saturday
-T00527,2025-05-10,Food,Swiggy / Zomato,370,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Saturday
-T00522,2025-05-10,Food,Restaurants,1010,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Saturday
-T00547,2025-05-12,Education,Books / Courses,1260,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Monday
-T00544,2025-05-12,Miscellaneous,Personal Care,580,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Monday
-T00530,2025-05-12,Transport,Ola / Uber,550,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Monday
-T00535,2025-05-13,Housing,Electricity,1390,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Tuesday
-T00541,2025-05-15,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Thursday
-T00539,2025-05-15,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2025,5,May,2025-05,Q2,Thursday
-T00538,2025-05-15,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2025,5,May,2025-05,Q2,Thursday
-T00526,2025-05-15,Food,Swiggy / Zomato,650,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Thursday
-T00537,2025-05-19,Housing,Mobile Recharge,350,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Monday
-T00532,2025-05-19,Transport,Ola / Uber,670,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Monday
-T00520,2025-05-20,Food,Groceries,2900,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Tuesday
-T00521,2025-05-21,Food,Groceries,2290,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Wednesday
-T00542,2025-05-22,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Thursday
-T00545,2025-05-23,Health,Medicines,780,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Friday
-T00525,2025-05-23,Food,Swiggy / Zomato,600,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Friday
-T00523,2025-05-24,Food,Restaurants,1200,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Saturday
-T00552,2025-06-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,6,Jun,2025-06,Q2,Sunday
-T00568,2025-06-02,Housing,Rent,18000,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Monday
-T00580,2025-06-05,Health,Medicines,780,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Thursday
-T00576,2025-06-06,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Friday
-T00584,2025-06-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit SIP,2025,6,Jun,2025-06,Q2,Saturday
-T00572,2025-06-07,EMI,Home Loan EMI,12500,Expense,HDFC Salary,,2025,6,Jun,2025-06,Q2,Saturday
-T00583,2025-06-07,Investment,SIP – Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit SIP,2025,6,Jun,2025-06,Q2,Saturday
-T00582,2025-06-07,Investment,SIP – Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit SIP,2025,6,Jun,2025-06,Q2,Saturday
-T00553,2025-06-09,Income,Freelance,12000,Income,SBI Savings,Freelance project,2025,6,Jun,2025-06,Q2,Monday
-T00562,2025-06-09,Food,Swiggy / Zomato,380,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Monday
-T00567,2025-06-10,Transport,Fuel,1190,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Tuesday
-T00574,2025-06-12,Health,Gym,1200,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Thursday
-T00557,2025-06-16,Food,Restaurants,960,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Monday
-T00573,2025-06-18,EMI,Personal Loan EMI,3800,Expense,HDFC Salary,,2025,6,Jun,2025-06,Q2,Wednesday
-T00565,2025-06-21,Transport,Ola / Uber,820,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Saturday
-T00566,2025-06-21,Transport,Ola / Uber,450,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Saturday
-T00561,2025-06-21,Food,Swiggy / Zomato,440,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Saturday
-T00581,2025-06-22,Entertainment,Shopping – Clothes,3530,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Sunday
-T00564,2025-06-22,Transport,Ola / Uber,780,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Sunday
-T00571,2025-06-24,Housing,Mobile Recharge,330,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Tuesday
-T00569,2025-06-24,Housing,Electricity,1360,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Tuesday
-T00555,2025-06-24,Food,Groceries,3090,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Tuesday
-T00563,2025-06-24,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Tuesday
-T00578,2025-06-26,Miscellaneous,Personal Care,780,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Thursday
-T00560,2025-06-26,Food,Swiggy / Zomato,390,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Thursday
-T00559,2025-06-26,Food,Swiggy / Zomato,410,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Thursday
-T00579,2025-06-26,Health,Doctor Visit,1810,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Thursday
-T00577,2025-06-27,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Friday
-T00554,2025-06-28,Food,Groceries,2210,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Saturday
-T00558,2025-06-29,Food,Restaurants,1100,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Sunday
-T00556,2025-06-30,Food,Restaurants,1180,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Monday
-T00570,2025-06-30,Housing,Internet,1000,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Monday
-T00575,2025-06-30,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Monday
+T00014,2024-01-26,Transport,Ola/Uber,400,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Friday
+T00013,2024-01-28,Transport,Ola/Uber,540,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Sunday
+T00025,2024-01-29,Health,Doctor Visit,1440,Expense,HDFC Credit Card,,2024,1,Jan,2024-01,Q1,Monday
+T00023,2024-01-30,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,1,Jan,2024-01,Q1,Tuesday
+T00030,2024-02-01,Income,Salary,95000,Income,HDFC Salary,Monthly salary credit,2024,2,Feb,2024-02,Q1,Thursday
+T00044,2024-02-02,Transport,Fuel,940,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Friday
+T00043,2024-02-02,Transport,Ola/Uber,780,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Friday
+T00038,2024-02-06,Food,Swiggy/Zomato,590,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Tuesday
+T00059,2024-02-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,2,Feb,2024-02,Q1,Wednesday
+T00058,2024-02-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,2,Feb,2024-02,Q1,Wednesday
+T00046,2024-02-07,Housing,Electricity,1110,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Wednesday
+T00057,2024-02-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,2,Feb,2024-02,Q1,Wednesday
+T00041,2024-02-08,Transport,Ola/Uber,740,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Thursday
+T00034,2024-02-09,Food,Restaurants,730,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Friday
+T00051,2024-02-09,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Friday
+T00053,2024-02-09,Miscellaneous,Personal Care,620,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Friday
+T00039,2024-02-09,Food,Swiggy/Zomato,480,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Friday
+T00048,2024-02-11,Housing,Mobile Recharge,390,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Sunday
+T00033,2024-02-12,Food,Restaurants,700,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Monday
+T00032,2024-02-12,Food,Groceries,3030,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Monday
+T00054,2024-02-12,Health,Medicines,550,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Monday
+T00045,2024-02-13,Housing,Rent,18000,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Tuesday
+T00031,2024-02-15,Food,Groceries,2690,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Thursday
+T00049,2024-02-16,Health,Gym,1200,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Friday
+T00055,2024-02-17,Entertainment,Movies/Events,1500,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Saturday
+T00037,2024-02-18,Food,Swiggy/Zomato,550,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Sunday
+T00047,2024-02-19,Housing,Internet,1000,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Monday
+T00036,2024-02-20,Food,Swiggy/Zomato,560,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Tuesday
+T00050,2024-02-21,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Wednesday
+T00040,2024-02-21,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Wednesday
+T00056,2024-02-22,Food,Tea/Snacks,360,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Thursday
+T00035,2024-02-22,Food,Restaurants,1020,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Thursday
+T00052,2024-02-24,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,2,Feb,2024-02,Q1,Saturday
+T00042,2024-02-27,Transport,Ola/Uber,740,Expense,HDFC Credit Card,,2024,2,Feb,2024-02,Q1,Tuesday
+T00080,2024-03-01,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Friday
+T00060,2024-03-01,Income,Salary,95000,Income,HDFC Salary,Monthly salary credit,2024,3,Mar,2024-03,Q1,Friday
+T00064,2024-03-01,Food,Restaurants,1120,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Friday
+T00085,2024-03-03,Entertainment,Shopping,2960,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Sunday
+T00068,2024-03-04,Food,Swiggy/Zomato,560,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Monday
+T00065,2024-03-04,Food,Restaurants,1010,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Monday
+T00069,2024-03-06,Food,Swiggy/Zomato,420,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Wednesday
+T00089,2024-03-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,3,Mar,2024-03,Q1,Thursday
+T00088,2024-03-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,3,Mar,2024-03,Q1,Thursday
+T00087,2024-03-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,3,Mar,2024-03,Q1,Thursday
+T00077,2024-03-12,Housing,Internet,1000,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Tuesday
+T00061,2024-03-13,Food,Groceries,2280,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Wednesday
+T00548,2024-03-15,Health,Health Insurance Premium,16500,Expense,HDFC Credit Card,Annual family floater,2024,3,Mar,2024-03,Q1,Friday
+T00062,2024-03-15,Food,Groceries,2970,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Friday
+T00081,2024-03-16,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Saturday
+T00073,2024-03-17,Transport,Ola/Uber,780,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Sunday
+T00072,2024-03-17,Transport,Ola/Uber,530,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Sunday
+T00063,2024-03-18,Food,Restaurants,920,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Monday
+T00066,2024-03-18,Food,Swiggy/Zomato,570,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Monday
+T00078,2024-03-18,Housing,Mobile Recharge,380,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Monday
+T00084,2024-03-19,Health,Medicines,340,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Tuesday
+T00076,2024-03-20,Housing,Electricity,1410,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Wednesday
+T00071,2024-03-24,Transport,Ola/Uber,760,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Sunday
+T00067,2024-03-25,Food,Swiggy/Zomato,600,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Monday
+T00083,2024-03-27,Miscellaneous,Personal Care,550,Expense,HDFC Credit Card,,2024,3,Mar,2024-03,Q1,Wednesday
+T00075,2024-03-27,Housing,Rent,18000,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Wednesday
+T00074,2024-03-28,Transport,Fuel,1350,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Thursday
+T00079,2024-03-30,Health,Gym,1200,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Saturday
+T00082,2024-03-30,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Saturday
+T00086,2024-03-31,Food,Tea/Snacks,560,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Sunday
+T00070,2024-03-31,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,3,Mar,2024-03,Q1,Sunday
+T00090,2024-04-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,4,Apr,2024-04,Q2,Monday
+T00103,2024-04-02,Transport,Ola/Uber,750,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Tuesday
+T00099,2024-04-03,Food,Swiggy/Zomato,400,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Wednesday
+T00102,2024-04-03,Transport,Ola/Uber,510,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Wednesday
+T00098,2024-04-04,Food,Swiggy/Zomato,510,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Thursday
+T00108,2024-04-05,Housing,Mobile Recharge,320,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Friday
+T00120,2024-04-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,4,Apr,2024-04,Q2,Sunday
+T00112,2024-04-07,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Sunday
+T00094,2024-04-07,Food,Restaurants,1040,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Sunday
+T00121,2024-04-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,4,Apr,2024-04,Q2,Sunday
+T00119,2024-04-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,4,Apr,2024-04,Q2,Sunday
+T00092,2024-04-07,Food,Groceries,2990,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Sunday
+T00106,2024-04-08,Housing,Electricity,960,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Monday
+T00118,2024-04-09,Food,Tea/Snacks,470,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Tuesday
+T00549,2024-04-10,Investment,FD - SBI,50000,Investment,SBI Savings,6-month FD @7.1%,2024,4,Apr,2024-04,Q2,Wednesday
+T00105,2024-04-11,Housing,Rent,18000,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Thursday
+T00116,2024-04-11,Entertainment,Shopping,2710,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Thursday
+T00095,2024-04-13,Food,Restaurants,1030,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Saturday
+T00107,2024-04-16,Housing,Internet,1000,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Tuesday
+T00110,2024-04-16,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Tuesday
+T00111,2024-04-16,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Tuesday
+T00117,2024-04-18,Education,Books/Courses,880,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Thursday
+T00101,2024-04-19,Transport,Ola/Uber,680,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Friday
+T00100,2024-04-19,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Friday
+T00096,2024-04-21,Food,Swiggy/Zomato,700,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Sunday
+T00115,2024-04-21,Entertainment,Movies/Events,1190,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Sunday
+T00113,2024-04-22,Miscellaneous,Personal Care,440,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Monday
+T00114,2024-04-24,Health,Medicines,480,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Wednesday
+T00093,2024-04-25,Food,Restaurants,1160,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Thursday
+T00091,2024-04-28,Food,Groceries,2540,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Sunday
+T00097,2024-04-29,Food,Swiggy/Zomato,450,Expense,HDFC Credit Card,,2024,4,Apr,2024-04,Q2,Monday
+T00104,2024-04-29,Transport,Fuel,940,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Monday
+T00109,2024-04-29,Health,Gym,1200,Expense,SBI Savings,,2024,4,Apr,2024-04,Q2,Monday
+T00122,2024-05-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,5,May,2024-05,Q2,Wednesday
+T00143,2024-05-02,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Thursday
+T00127,2024-05-03,Food,Restaurants,1100,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Friday
+T00123,2024-05-03,Food,Groceries,3340,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Friday
+T00146,2024-05-03,Health,Doctor Visit,1940,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Friday
+T00125,2024-05-04,Food,Restaurants,1110,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Saturday
+T00150,2024-05-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,5,May,2024-05,Q2,Tuesday
+T00152,2024-05-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,5,May,2024-05,Q2,Tuesday
+T00130,2024-05-07,Food,Swiggy/Zomato,490,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Tuesday
+T00151,2024-05-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,5,May,2024-05,Q2,Tuesday
+T00139,2024-05-07,Housing,Internet,1000,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Tuesday
+T00135,2024-05-10,Transport,Ola/Uber,790,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Friday
+T00132,2024-05-13,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Monday
+T00133,2024-05-13,Transport,Ola/Uber,400,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Monday
+T00129,2024-05-14,Food,Swiggy/Zomato,390,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Tuesday
+T00144,2024-05-17,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Friday
+T00145,2024-05-17,Miscellaneous,Personal Care,770,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Friday
+T00126,2024-05-18,Food,Restaurants,630,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Saturday
+T00149,2024-05-22,Food,Tea/Snacks,330,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Wednesday
+T00138,2024-05-23,Housing,Electricity,1340,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Thursday
+T00141,2024-05-24,Health,Gym,1200,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Friday
+T00142,2024-05-24,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Friday
+T00137,2024-05-26,Housing,Rent,18000,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Sunday
+T00134,2024-05-26,Transport,Ola/Uber,530,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Sunday
+T00124,2024-05-28,Food,Groceries,2780,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Tuesday
+T00147,2024-05-28,Entertainment,Movies/Events,660,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Tuesday
+T00128,2024-05-28,Food,Swiggy/Zomato,670,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Tuesday
+T00148,2024-05-29,Entertainment,Shopping,1860,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Wednesday
+T00131,2024-05-29,Food,Swiggy/Zomato,650,Expense,HDFC Credit Card,,2024,5,May,2024-05,Q2,Wednesday
+T00140,2024-05-31,Housing,Mobile Recharge,330,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Friday
+T00136,2024-05-31,Transport,Fuel,1050,Expense,SBI Savings,,2024,5,May,2024-05,Q2,Friday
+T00556,2024-06-01,Income,Performance Bonus,30000,Income,HDFC Salary,Annual bonus Q1,2024,6,Jun,2024-06,Q2,Saturday
+T00171,2024-06-01,Housing,Mobile Recharge,360,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Saturday
+T00153,2024-06-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,6,Jun,2024-06,Q2,Saturday
+T00160,2024-06-03,Food,Swiggy/Zomato,600,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Monday
+T00175,2024-06-04,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Tuesday
+T00162,2024-06-04,Food,Swiggy/Zomato,700,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Tuesday
+T00157,2024-06-05,Food,Restaurants,760,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Wednesday
+T00164,2024-06-05,Transport,Ola/Uber,650,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Wednesday
+T00167,2024-06-06,Transport,Fuel,1020,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Thursday
+T00183,2024-06-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,6,Jun,2024-06,Q2,Friday
+T00182,2024-06-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,6,Jun,2024-06,Q2,Friday
+T00163,2024-06-07,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Friday
+T00184,2024-06-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,6,Jun,2024-06,Q2,Friday
+T00156,2024-06-08,Food,Restaurants,1030,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Saturday
+T00166,2024-06-08,Transport,Ola/Uber,430,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Saturday
+T00158,2024-06-10,Food,Restaurants,1000,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Monday
+T00168,2024-06-18,Housing,Rent,18000,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Tuesday
+T00172,2024-06-18,Health,Gym,1200,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Tuesday
+T00161,2024-06-20,Food,Swiggy/Zomato,300,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Thursday
+T00169,2024-06-20,Housing,Electricity,1460,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Thursday
+T00155,2024-06-22,Food,Groceries,2540,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Saturday
+T00173,2024-06-22,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Saturday
+T00177,2024-06-23,Health,Medicines,560,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Sunday
+T00176,2024-06-24,Miscellaneous,Personal Care,760,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Monday
+T00181,2024-06-25,Food,Tea/Snacks,300,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Tuesday
+T00170,2024-06-26,Housing,Internet,1000,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Wednesday
+T00180,2024-06-27,Education,Books/Courses,1770,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Thursday
+T00178,2024-06-28,Entertainment,Movies/Events,1220,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Friday
+T00179,2024-06-29,Entertainment,Shopping,2970,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Saturday
+T00174,2024-06-29,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Saturday
+T00165,2024-06-29,Transport,Ola/Uber,870,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Saturday
+T00154,2024-06-30,Food,Groceries,2880,Expense,SBI Savings,,2024,6,Jun,2024-06,Q2,Sunday
+T00159,2024-06-30,Food,Swiggy/Zomato,480,Expense,HDFC Credit Card,,2024,6,Jun,2024-06,Q2,Sunday
+T00185,2024-07-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,7,Jul,2024-07,Q3,Monday
+T00194,2024-07-02,Food,Swiggy/Zomato,470,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Tuesday
+T00189,2024-07-03,Food,Restaurants,610,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Wednesday
+T00193,2024-07-05,Food,Swiggy/Zomato,530,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Friday
+T00186,2024-07-06,Income,Freelance,10000,Income,SBI Savings,Freelance project,2024,7,Jul,2024-07,Q3,Saturday
+T00206,2024-07-06,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Saturday
+T00215,2024-07-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,7,Jul,2024-07,Q3,Sunday
+T00214,2024-07-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,7,Jul,2024-07,Q3,Sunday
+T00213,2024-07-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,7,Jul,2024-07,Q3,Sunday
+T00198,2024-07-08,Transport,Ola/Uber,510,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Monday
+T00207,2024-07-11,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Thursday
+T00197,2024-07-12,Transport,Ola/Uber,420,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Friday
+T00199,2024-07-12,Transport,Ola/Uber,730,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Friday
+T00192,2024-07-12,Food,Swiggy/Zomato,310,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Friday
+T00212,2024-07-12,Miscellaneous,Gifts/Celebrations,2340,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Friday
+T00208,2024-07-14,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Sunday
+T00188,2024-07-18,Food,Groceries,3120,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Thursday
+T00187,2024-07-18,Food,Groceries,3160,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Thursday
+T00191,2024-07-18,Food,Restaurants,1140,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Thursday
+T00550,2024-07-20,Miscellaneous,Laptop Repair,8500,Expense,HDFC Credit Card,Keyboard replacement,2024,7,Jul,2024-07,Q3,Saturday
+T00201,2024-07-20,Housing,Rent,18000,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Saturday
+T00210,2024-07-23,Health,Medicines,300,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Tuesday
+T00190,2024-07-23,Food,Restaurants,1170,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Tuesday
+T00204,2024-07-26,Housing,Mobile Recharge,320,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Friday
+T00209,2024-07-28,Miscellaneous,Personal Care,720,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Sunday
+T00211,2024-07-28,Entertainment,Movies/Events,1380,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Sunday
+T00203,2024-07-28,Housing,Internet,1000,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Sunday
+T00196,2024-07-28,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Sunday
+T00205,2024-07-29,Health,Gym,1200,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Monday
+T00200,2024-07-29,Transport,Fuel,1270,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Monday
+T00195,2024-07-29,Food,Swiggy/Zomato,420,Expense,HDFC Credit Card,,2024,7,Jul,2024-07,Q3,Monday
+T00202,2024-07-30,Housing,Electricity,1500,Expense,SBI Savings,,2024,7,Jul,2024-07,Q3,Tuesday
+T00216,2024-08-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,8,Aug,2024-08,Q3,Thursday
+T00238,2024-08-03,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Saturday
+T00219,2024-08-03,Food,Groceries,2560,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Saturday
+T00225,2024-08-06,Food,Swiggy/Zomato,690,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Tuesday
+T00247,2024-08-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,8,Aug,2024-08,Q3,Wednesday
+T00246,2024-08-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,8,Aug,2024-08,Q3,Wednesday
+T00245,2024-08-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,8,Aug,2024-08,Q3,Wednesday
+T00237,2024-08-07,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Wednesday
+T00226,2024-08-09,Food,Swiggy/Zomato,530,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Friday
+T00220,2024-08-09,Food,Restaurants,1180,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Friday
+T00232,2024-08-09,Housing,Rent,18000,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Friday
+T00240,2024-08-11,Miscellaneous,Personal Care,530,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Sunday
+T00218,2024-08-11,Food,Groceries,2450,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Sunday
+T00243,2024-08-13,Education,Books/Courses,1830,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Tuesday
+T00242,2024-08-13,Entertainment,Movies/Events,970,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Tuesday
+T00229,2024-08-14,Transport,Ola/Uber,790,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Wednesday
+T00233,2024-08-14,Housing,Electricity,940,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Wednesday
+T00241,2024-08-17,Health,Medicines,740,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Saturday
+T00230,2024-08-17,Transport,Ola/Uber,700,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Saturday
+T00221,2024-08-17,Food,Restaurants,810,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Saturday
+T00227,2024-08-20,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Tuesday
+T00244,2024-08-20,Food,Tea/Snacks,660,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Tuesday
+T00235,2024-08-22,Housing,Mobile Recharge,380,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Thursday
+T00217,2024-08-22,Income,Freelance,6000,Income,SBI Savings,Freelance project,2024,8,Aug,2024-08,Q3,Thursday
+T00228,2024-08-24,Transport,Ola/Uber,620,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Saturday
+T00236,2024-08-24,Health,Gym,1200,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Saturday
+T00222,2024-08-27,Food,Restaurants,840,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Tuesday
+T00231,2024-08-29,Transport,Fuel,870,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Thursday
+T00224,2024-08-29,Food,Swiggy/Zomato,310,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Thursday
+T00239,2024-08-30,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Friday
+T00234,2024-08-30,Housing,Internet,1000,Expense,SBI Savings,,2024,8,Aug,2024-08,Q3,Friday
+T00223,2024-08-31,Food,Swiggy/Zomato,510,Expense,HDFC Credit Card,,2024,8,Aug,2024-08,Q3,Saturday
+T00248,2024-09-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,9,Sep,2024-09,Q3,Sunday
+T00266,2024-09-03,Housing,Mobile Recharge,380,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Tuesday
+T00263,2024-09-05,Housing,Rent,18000,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Thursday
+T00278,2024-09-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,9,Sep,2024-09,Q3,Saturday
+T00254,2024-09-07,Food,Swiggy/Zomato,480,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Saturday
+T00277,2024-09-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,9,Sep,2024-09,Q3,Saturday
+T00276,2024-09-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,9,Sep,2024-09,Q3,Saturday
+T00268,2024-09-07,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Saturday
+T00270,2024-09-08,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Sunday
+T00264,2024-09-08,Housing,Electricity,920,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Sunday
+T00261,2024-09-08,Transport,Ola/Uber,880,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Sunday
+T00262,2024-09-08,Transport,Fuel,1200,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Sunday
+T00250,2024-09-10,Food,Groceries,2200,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Tuesday
+T00269,2024-09-13,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Friday
+T00253,2024-09-15,Food,Restaurants,790,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Sunday
+T00275,2024-09-15,Food,Tea/Snacks,350,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Sunday
+T00258,2024-09-17,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Tuesday
+T00265,2024-09-20,Housing,Internet,1000,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Friday
+T00259,2024-09-20,Transport,Ola/Uber,730,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Friday
+T00252,2024-09-21,Food,Restaurants,950,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Saturday
+T00257,2024-09-22,Food,Swiggy/Zomato,590,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Sunday
+T00273,2024-09-23,Entertainment,Shopping,3910,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Monday
+T00271,2024-09-23,Miscellaneous,Personal Care,460,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Monday
+T00272,2024-09-25,Health,Doctor Visit,1630,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Wednesday
+T00256,2024-09-26,Food,Swiggy/Zomato,660,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Thursday
+T00255,2024-09-26,Food,Swiggy/Zomato,500,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Thursday
+T00251,2024-09-26,Food,Restaurants,730,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Thursday
+T00249,2024-09-27,Food,Groceries,2730,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Friday
+T00260,2024-09-27,Transport,Ola/Uber,570,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Friday
+T00274,2024-09-28,Education,Books/Courses,1000,Expense,HDFC Credit Card,,2024,9,Sep,2024-09,Q3,Saturday
+T00267,2024-09-29,Health,Gym,1200,Expense,SBI Savings,,2024,9,Sep,2024-09,Q3,Sunday
+T00279,2024-10-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,10,Oct,2024-10,Q4,Tuesday
+T00292,2024-10-03,Transport,Ola/Uber,750,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Thursday
+T00289,2024-10-03,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Thursday
+T00551,2024-10-05,Miscellaneous,Diwali Shopping,14000,Expense,HDFC Credit Card,Gifts + clothes,2024,10,Oct,2024-10,Q4,Saturday
+T00291,2024-10-05,Transport,Ola/Uber,590,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Saturday
+T00283,2024-10-06,Food,Restaurants,1330,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Sunday
+T00307,2024-10-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,10,Oct,2024-10,Q4,Monday
+T00305,2024-10-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,10,Oct,2024-10,Q4,Monday
+T00306,2024-10-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,10,Oct,2024-10,Q4,Monday
+T00290,2024-10-08,Transport,Ola/Uber,470,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Tuesday
+T00285,2024-10-09,Food,Swiggy/Zomato,740,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Wednesday
+T00284,2024-10-09,Food,Restaurants,1230,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Wednesday
+T00288,2024-10-11,Food,Swiggy/Zomato,470,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Friday
+T00293,2024-10-11,Transport,Fuel,1050,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Friday
+T00300,2024-10-12,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Saturday
+T00301,2024-10-13,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Sunday
+T00303,2024-10-13,Education,Books/Courses,1470,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Sunday
+T00304,2024-10-13,Food,Tea/Snacks,570,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Sunday
+T00294,2024-10-14,Housing,Rent,18000,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Monday
+T00302,2024-10-14,Miscellaneous,Personal Care,920,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Monday
+T00299,2024-10-16,Entertainment,OTT Subscriptions,770,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Wednesday
+T00286,2024-10-21,Food,Swiggy/Zomato,720,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Monday
+T00287,2024-10-23,Food,Swiggy/Zomato,470,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Wednesday
+T00281,2024-10-27,Food,Groceries,3710,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Sunday
+T00282,2024-10-27,Food,Restaurants,1210,Expense,HDFC Credit Card,,2024,10,Oct,2024-10,Q4,Sunday
+T00295,2024-10-27,Housing,Electricity,950,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Sunday
+T00298,2024-10-28,Health,Gym,1200,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Monday
+T00296,2024-10-29,Housing,Internet,1000,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Tuesday
+T00297,2024-10-31,Housing,Mobile Recharge,380,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Thursday
+T00280,2024-10-31,Food,Groceries,4140,Expense,SBI Savings,,2024,10,Oct,2024-10,Q4,Thursday
+T00320,2024-11-01,Transport,Ola/Uber,420,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Friday
+T00308,2024-11-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,11,Nov,2024-11,Q4,Friday
+T00318,2024-11-03,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Sunday
+T00324,2024-11-04,Housing,Electricity,1280,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Monday
+T00323,2024-11-05,Housing,Rent,18000,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Tuesday
+T00327,2024-11-06,Health,Gym,1200,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Wednesday
+T00312,2024-11-06,Food,Restaurants,1060,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Wednesday
+T00313,2024-11-07,Food,Restaurants,730,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Thursday
+T00321,2024-11-07,Transport,Ola/Uber,870,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Thursday
+T00338,2024-11-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,11,Nov,2024-11,Q4,Thursday
+T00337,2024-11-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,11,Nov,2024-11,Q4,Thursday
+T00336,2024-11-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,11,Nov,2024-11,Q4,Thursday
+T00325,2024-11-07,Housing,Internet,1000,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Thursday
+T00332,2024-11-07,Entertainment,Movies/Events,1450,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Thursday
+T00326,2024-11-09,Housing,Mobile Recharge,350,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Saturday
+T00334,2024-11-10,Miscellaneous,Gifts/Celebrations,1890,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Sunday
+T00331,2024-11-10,Miscellaneous,Personal Care,490,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Sunday
+T00330,2024-11-10,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Sunday
+T00317,2024-11-12,Food,Swiggy/Zomato,370,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Tuesday
+T00316,2024-11-16,Food,Swiggy/Zomato,580,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Saturday
+T00310,2024-11-19,Food,Groceries,3570,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Tuesday
+T00335,2024-11-19,Food,Tea/Snacks,350,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Tuesday
+T00309,2024-11-20,Food,Groceries,4070,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Wednesday
+T00322,2024-11-20,Transport,Fuel,1300,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Wednesday
+T00311,2024-11-21,Food,Restaurants,1040,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Thursday
+T00319,2024-11-21,Transport,Ola/Uber,790,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Thursday
+T00333,2024-11-21,Entertainment,Shopping,3570,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Thursday
+T00328,2024-11-23,Entertainment,OTT Subscriptions,810,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Saturday
+T00315,2024-11-27,Food,Swiggy/Zomato,550,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Wednesday
+T00329,2024-11-27,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,11,Nov,2024-11,Q4,Wednesday
+T00552,2024-11-28,Education,Power BI Certification,4500,Expense,HDFC Credit Card,PL-300 exam fee,2024,11,Nov,2024-11,Q4,Thursday
+T00314,2024-11-29,Food,Swiggy/Zomato,550,Expense,HDFC Credit Card,,2024,11,Nov,2024-11,Q4,Friday
+T00339,2024-12-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2024,12,Dec,2024-12,Q4,Sunday
+T00341,2024-12-01,Food,Groceries,2740,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Sunday
+T00360,2024-12-03,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Tuesday
+T00342,2024-12-04,Food,Restaurants,1360,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Wednesday
+T00368,2024-12-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2024,12,Dec,2024-12,Q4,Saturday
+T00367,2024-12-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2024,12,Dec,2024-12,Q4,Saturday
+T00366,2024-12-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2024,12,Dec,2024-12,Q4,Saturday
+T00357,2024-12-09,Housing,Mobile Recharge,320,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Monday
+T00363,2024-12-10,Entertainment,Movies/Events,620,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Tuesday
+T00364,2024-12-10,Entertainment,Shopping,3580,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Tuesday
+T00353,2024-12-11,Transport,Fuel,1200,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Wednesday
+T00340,2024-12-12,Food,Groceries,3090,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Thursday
+T00344,2024-12-14,Food,Restaurants,1330,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Saturday
+T00361,2024-12-14,Utilities,Society Maintenance,500,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Saturday
+T00355,2024-12-16,Housing,Electricity,1160,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Monday
+T00359,2024-12-17,Entertainment,OTT Subscriptions,770,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Tuesday
+T00346,2024-12-18,Food,Swiggy/Zomato,500,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Wednesday
+T00352,2024-12-20,Transport,Ola/Uber,630,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Friday
+T00345,2024-12-21,Food,Swiggy/Zomato,440,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Saturday
+T00358,2024-12-23,Health,Gym,1200,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Monday
+T00362,2024-12-23,Miscellaneous,Personal Care,730,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Monday
+T00365,2024-12-24,Food,Tea/Snacks,440,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Tuesday
+T00351,2024-12-25,Transport,Ola/Uber,630,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Wednesday
+T00356,2024-12-26,Housing,Internet,1000,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Thursday
+T00347,2024-12-27,Food,Swiggy/Zomato,710,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Friday
+T00348,2024-12-28,Food,Swiggy/Zomato,670,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Saturday
+T00354,2024-12-28,Housing,Rent,18000,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Saturday
+T00350,2024-12-29,Transport,Ola/Uber,440,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Sunday
+T00343,2024-12-29,Food,Restaurants,990,Expense,HDFC Credit Card,,2024,12,Dec,2024-12,Q4,Sunday
+T00349,2024-12-30,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2024,12,Dec,2024-12,Q4,Monday
+T00369,2025-01-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,1,Jan,2025-01,Q1,Wednesday
+T00384,2025-01-02,Housing,Rent,18000,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Thursday
+T00388,2025-01-04,Health,Gym,1200,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Saturday
+T00373,2025-01-04,Food,Restaurants,720,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Saturday
+T00391,2025-01-06,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Monday
+T00375,2025-01-06,Food,Swiggy/Zomato,600,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Monday
+T00397,2025-01-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2025,1,Jan,2025-01,Q1,Tuesday
+T00398,2025-01-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2025,1,Jan,2025-01,Q1,Tuesday
+T00399,2025-01-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2025,1,Jan,2025-01,Q1,Tuesday
+T00381,2025-01-08,Transport,Ola/Uber,500,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Wednesday
+T00371,2025-01-09,Food,Groceries,2550,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Thursday
+T00392,2025-01-09,Miscellaneous,Personal Care,790,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Thursday
+T00382,2025-01-10,Transport,Ola/Uber,580,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Friday
+T00379,2025-01-10,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Friday
+T00393,2025-01-13,Health,Medicines,690,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Monday
+T00370,2025-01-15,Food,Groceries,2660,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Wednesday
+T00553,2025-01-15,Income,Tax Refund,9800,Income,SBI Savings,IT refund AY2024-25,2025,1,Jan,2025-01,Q1,Wednesday
+T00390,2025-01-16,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Thursday
+T00385,2025-01-18,Housing,Electricity,1680,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Saturday
+T00396,2025-01-18,Education,Books/Courses,1000,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Saturday
+T00383,2025-01-18,Transport,Fuel,810,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Saturday
+T00389,2025-01-19,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Sunday
+T00395,2025-01-19,Entertainment,Shopping,1950,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Sunday
+T00394,2025-01-22,Entertainment,Movies/Events,1120,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Wednesday
+T00372,2025-01-24,Food,Restaurants,740,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Friday
+T00376,2025-01-24,Food,Swiggy/Zomato,380,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Friday
+T00377,2025-01-24,Food,Swiggy/Zomato,490,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Friday
+T00378,2025-01-25,Food,Swiggy/Zomato,540,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Saturday
+T00380,2025-01-27,Transport,Ola/Uber,890,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Monday
+T00387,2025-01-28,Housing,Mobile Recharge,310,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Tuesday
+T00374,2025-01-31,Food,Restaurants,1050,Expense,HDFC Credit Card,,2025,1,Jan,2025-01,Q1,Friday
+T00386,2025-01-31,Housing,Internet,1000,Expense,SBI Savings,,2025,1,Jan,2025-01,Q1,Friday
+T00400,2025-02-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,2,Feb,2025-02,Q1,Saturday
+T00406,2025-02-02,Food,Swiggy/Zomato,530,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Sunday
+T00410,2025-02-03,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Monday
+T00423,2025-02-05,Miscellaneous,Personal Care,490,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Wednesday
+T00411,2025-02-06,Transport,Ola/Uber,480,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Thursday
+T00412,2025-02-06,Transport,Ola/Uber,680,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Thursday
+T00421,2025-02-07,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Friday
+T00409,2025-02-07,Food,Swiggy/Zomato,380,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Friday
+T00427,2025-02-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2025,2,Feb,2025-02,Q1,Friday
+T00428,2025-02-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2025,2,Feb,2025-02,Q1,Friday
+T00426,2025-02-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2025,2,Feb,2025-02,Q1,Friday
+T00401,2025-02-08,Food,Groceries,3230,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Saturday
+T00415,2025-02-08,Housing,Rent,18000,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Saturday
+T00418,2025-02-08,Housing,Mobile Recharge,310,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Saturday
+T00416,2025-02-10,Housing,Electricity,1130,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Monday
+T00424,2025-02-10,Entertainment,Movies/Events,750,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Monday
+T00425,2025-02-10,Food,Tea/Snacks,490,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Monday
+T00405,2025-02-10,Food,Restaurants,1190,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Monday
+T00402,2025-02-13,Food,Groceries,3210,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Thursday
+T00417,2025-02-15,Housing,Internet,1000,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Saturday
+T00413,2025-02-15,Transport,Ola/Uber,400,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Saturday
+T00403,2025-02-15,Food,Restaurants,870,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Saturday
+T00414,2025-02-16,Transport,Fuel,1210,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Sunday
+T00422,2025-02-18,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Tuesday
+T00420,2025-02-19,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Wednesday
+T00404,2025-02-19,Food,Restaurants,780,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Wednesday
+T00407,2025-02-24,Food,Swiggy/Zomato,540,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Monday
+T00408,2025-02-25,Food,Swiggy/Zomato,340,Expense,HDFC Credit Card,,2025,2,Feb,2025-02,Q1,Tuesday
+T00419,2025-02-26,Health,Gym,1200,Expense,SBI Savings,,2025,2,Feb,2025-02,Q1,Wednesday
+T00429,2025-03-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,3,Mar,2025-03,Q1,Saturday
+T00432,2025-03-02,Food,Restaurants,650,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Sunday
+T00448,2025-03-04,Health,Gym,1200,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Tuesday
+T00443,2025-03-06,Transport,Fuel,1350,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Thursday
+T00458,2025-03-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2025,3,Mar,2025-03,Q1,Friday
+T00457,2025-03-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2025,3,Mar,2025-03,Q1,Friday
+T00456,2025-03-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2025,3,Mar,2025-03,Q1,Friday
+T00455,2025-03-07,Food,Tea/Snacks,470,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Friday
+T00435,2025-03-08,Food,Swiggy/Zomato,310,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Saturday
+T00434,2025-03-09,Food,Restaurants,790,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Sunday
+T00439,2025-03-09,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Sunday
+T00453,2025-03-11,Health,Medicines,390,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Tuesday
+T00449,2025-03-11,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Tuesday
+T00447,2025-03-11,Housing,Mobile Recharge,330,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Tuesday
+T00444,2025-03-14,Housing,Rent,18000,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Friday
+T00442,2025-03-15,Transport,Ola/Uber,660,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Saturday
+T00431,2025-03-15,Food,Groceries,2900,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Saturday
+T00446,2025-03-16,Housing,Internet,1000,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Sunday
+T00445,2025-03-16,Housing,Electricity,1410,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Sunday
+T00450,2025-03-16,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Sunday
+T00441,2025-03-16,Transport,Ola/Uber,780,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Sunday
+T00430,2025-03-17,Food,Groceries,3430,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Monday
+T00437,2025-03-19,Food,Swiggy/Zomato,640,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Wednesday
+T00433,2025-03-24,Food,Restaurants,1130,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Monday
+T00440,2025-03-25,Transport,Ola/Uber,690,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Tuesday
+T00438,2025-03-25,Food,Swiggy/Zomato,680,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Tuesday
+T00452,2025-03-25,Miscellaneous,Personal Care,560,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Tuesday
+T00436,2025-03-27,Food,Swiggy/Zomato,680,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Thursday
+T00454,2025-03-28,Entertainment,Movies/Events,1300,Expense,HDFC Credit Card,,2025,3,Mar,2025-03,Q1,Friday
+T00451,2025-03-31,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,3,Mar,2025-03,Q1,Monday
+T00554,2025-03-31,Investment,ELSS - Tax Saving,25000,Investment,Zerodha Coin,Sec 80C investment,2025,3,Mar,2025-03,Q1,Monday
+T00557,2025-04-01,Income,Performance Bonus,35000,Income,HDFC Salary,Annual bonus Q1,2025,4,Apr,2025-04,Q2,Tuesday
+T00459,2025-04-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,4,Apr,2025-04,Q2,Tuesday
+T00465,2025-04-04,Food,Swiggy/Zomato,580,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Friday
+T00472,2025-04-04,Transport,Ola/Uber,460,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Friday
+T00473,2025-04-05,Transport,Fuel,1190,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Saturday
+T00481,2025-04-05,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Saturday
+T00487,2025-04-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2025,4,Apr,2025-04,Q2,Monday
+T00488,2025-04-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2025,4,Apr,2025-04,Q2,Monday
+T00486,2025-04-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2025,4,Apr,2025-04,Q2,Monday
+T00479,2025-04-07,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Monday
+T00467,2025-04-08,Food,Swiggy/Zomato,540,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Tuesday
+T00470,2025-04-08,Transport,Ola/Uber,600,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Tuesday
+T00462,2025-04-09,Food,Restaurants,630,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Wednesday
+T00483,2025-04-09,Entertainment,Movies/Events,1310,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Wednesday
+T00482,2025-04-09,Miscellaneous,Personal Care,750,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Wednesday
+T00468,2025-04-10,Food,Swiggy/Zomato,580,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Thursday
+T00477,2025-04-16,Housing,Mobile Recharge,350,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Wednesday
+T00460,2025-04-16,Food,Groceries,3010,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Wednesday
+T00480,2025-04-17,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Thursday
+T00478,2025-04-18,Health,Gym,1200,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Friday
+T00485,2025-04-18,Food,Tea/Snacks,360,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Friday
+T00469,2025-04-18,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Friday
+T00466,2025-04-21,Food,Swiggy/Zomato,310,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Monday
+T00484,2025-04-22,Education,Books/Courses,1670,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Tuesday
+T00474,2025-04-23,Housing,Rent,18000,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Wednesday
+T00475,2025-04-23,Housing,Electricity,1130,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Wednesday
+T00461,2025-04-25,Food,Groceries,3010,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Friday
+T00476,2025-04-27,Housing,Internet,1000,Expense,SBI Savings,,2025,4,Apr,2025-04,Q2,Sunday
+T00464,2025-04-29,Food,Restaurants,770,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Tuesday
+T00463,2025-04-30,Food,Restaurants,930,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Wednesday
+T00471,2025-04-30,Transport,Ola/Uber,900,Expense,HDFC Credit Card,,2025,4,Apr,2025-04,Q2,Wednesday
+T00489,2025-05-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,5,May,2025-05,Q2,Thursday
+T00504,2025-05-04,Housing,Rent,18000,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Sunday
+T00502,2025-05-05,Transport,Ola/Uber,880,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Monday
+T00509,2025-05-05,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Monday
+T00515,2025-05-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2025,5,May,2025-05,Q2,Wednesday
+T00514,2025-05-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2025,5,May,2025-05,Q2,Wednesday
+T00513,2025-05-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2025,5,May,2025-05,Q2,Wednesday
+T00555,2025-05-10,Health,Dental Treatment,6200,Expense,HDFC Credit Card,Root canal,2025,5,May,2025-05,Q2,Saturday
+T00496,2025-05-11,Food,Swiggy/Zomato,460,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Sunday
+T00511,2025-05-11,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Sunday
+T00512,2025-05-13,Miscellaneous,Personal Care,650,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Tuesday
+T00494,2025-05-13,Food,Restaurants,740,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Tuesday
+T00498,2025-05-13,Food,Swiggy/Zomato,670,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Tuesday
+T00491,2025-05-15,Food,Groceries,2910,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Thursday
+T00505,2025-05-15,Housing,Electricity,1600,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Thursday
+T00501,2025-05-16,Transport,Ola/Uber,890,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Friday
+T00503,2025-05-19,Transport,Fuel,1100,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Monday
+T00500,2025-05-21,Transport,Ola/Uber,800,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Wednesday
+T00499,2025-05-22,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Thursday
+T00493,2025-05-23,Food,Restaurants,710,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Friday
+T00497,2025-05-23,Food,Swiggy/Zomato,600,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Friday
+T00507,2025-05-24,Housing,Mobile Recharge,340,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Saturday
+T00490,2025-05-25,Food,Groceries,2630,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Sunday
+T00495,2025-05-25,Food,Swiggy/Zomato,390,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Sunday
+T00510,2025-05-26,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Monday
+T00508,2025-05-28,Health,Gym,1200,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Wednesday
+T00492,2025-05-28,Food,Restaurants,1160,Expense,HDFC Credit Card,,2025,5,May,2025-05,Q2,Wednesday
+T00506,2025-05-30,Housing,Internet,1000,Expense,SBI Savings,,2025,5,May,2025-05,Q2,Friday
+T00516,2025-06-01,Income,Salary,105000,Income,HDFC Salary,Monthly salary credit,2025,6,Jun,2025-06,Q2,Sunday
+T00517,2025-06-02,Food,Groceries,3330,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Monday
+T00540,2025-06-03,Health,Doctor Visit,1320,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Tuesday
+T00535,2025-06-05,Health,Gym,1200,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Thursday
+T00524,2025-06-06,Food,Swiggy/Zomato,340,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Friday
+T00531,2025-06-06,Housing,Rent,18000,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Friday
+T00543,2025-06-07,Entertainment,Shopping,4040,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Saturday
+T00547,2025-06-07,Investment,PPF Contribution,5000,Investment,PPF Account,Auto-debit,2025,6,Jun,2025-06,Q2,Saturday
+T00546,2025-06-07,Investment,SIP - Mid Cap Fund,3000,Investment,Zerodha Coin,Auto-debit,2025,6,Jun,2025-06,Q2,Saturday
+T00545,2025-06-07,Investment,SIP - Nifty 50 Index,5000,Investment,Zerodha Coin,Auto-debit,2025,6,Jun,2025-06,Q2,Saturday
+T00518,2025-06-08,Food,Groceries,3000,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Sunday
+T00520,2025-06-08,Food,Restaurants,770,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Sunday
+T00537,2025-06-09,Utilities,LPG Cylinder,950,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Monday
+T00527,2025-06-10,Transport,Ola/Uber,800,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Tuesday
+T00526,2025-06-11,Transport,Mumbai Local Pass,550,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Wednesday
+T00544,2025-06-12,Food,Tea/Snacks,450,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Thursday
+T00528,2025-06-14,Transport,Ola/Uber,580,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Saturday
+T00521,2025-06-14,Food,Restaurants,1050,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Saturday
+T00534,2025-06-16,Housing,Mobile Recharge,370,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Monday
+T00529,2025-06-17,Transport,Ola/Uber,470,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Tuesday
+T00541,2025-06-19,Health,Medicines,410,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Thursday
+T00533,2025-06-20,Housing,Internet,1000,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Friday
+T00532,2025-06-20,Housing,Electricity,1040,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Friday
+T00536,2025-06-21,Entertainment,OTT Subscriptions,650,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Saturday
+T00530,2025-06-22,Transport,Fuel,1050,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Sunday
+T00542,2025-06-23,Entertainment,Movies/Events,1470,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Monday
+T00522,2025-06-25,Food,Swiggy/Zomato,690,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Wednesday
+T00523,2025-06-28,Food,Swiggy/Zomato,550,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Saturday
+T00539,2025-06-29,Miscellaneous,Personal Care,720,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Sunday
+T00525,2025-06-29,Food,Swiggy/Zomato,580,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Sunday
+T00538,2025-06-29,Utilities,Society Maintenance,500,Expense,SBI Savings,,2025,6,Jun,2025-06,Q2,Sunday
+T00519,2025-06-30,Food,Restaurants,980,Expense,HDFC Credit Card,,2025,6,Jun,2025-06,Q2,Monday
